@@ -1,0 +1,2 @@
+# httpapipatterns
+HTTP API Patterns
